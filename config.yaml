@@ -1,0 +1,10 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+# theme: "ananke"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  video: "videos"
+preserveTaxonomyNames: true
